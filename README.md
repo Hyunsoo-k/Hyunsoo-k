@@ -14,7 +14,7 @@
 </br>
 </br>
 
-<h3 align="center">:star:S k i l l s:star:</h3>
+<h3 align="center">🛠S k i l l s🛠</h3>
 
 ---
 
@@ -43,7 +43,7 @@
 </br>
 </br>
 
-<h3 align="center">🛠s t r e n g t h🛠</h3>
+<h3 align="center">:star:s t r e n g t h:star:</h3>
 
 ---
 
