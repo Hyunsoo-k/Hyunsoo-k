@@ -53,7 +53,7 @@
 
 </br>
 
-서버 : Node.js와 Express를 이용한 앤드포인트 생성, MongoDB, MySQL과 연동하는 미들웨어 구현
+서버 : Node.js와 Express를 이용한 RESTful-api 서버 구현
 
 </br>
 </br>
