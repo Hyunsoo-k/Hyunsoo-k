@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">anthony117@naver.com</p>
+<p align="center">eng.hyunsoo@gmail.com</p>
 
 </br>
 </br>
