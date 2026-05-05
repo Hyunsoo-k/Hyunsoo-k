@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=😎%20Front-end,%20Server%20developer%20김현수&fontAlign=50&fontAlignY=40&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=😎%20FullStack%20developer%20김현수&fontAlign=50&fontAlignY=40&fontSize=35)
 
 
 </br>
