@@ -37,19 +37,3 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
-
-</br>
-</br>
-</br>
-</br>
-
-<h3 align="center">📓S t a t s📓</h3>
-
----
-
-</br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyunsoo-k&hide=stars&show_icons=true&theme=slateorange&hide_border=true&count_private=true" width=50% />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-k&layout=compact&show_icons=true&theme=slateorange&hide_border=true&count_private=true" width=33% height=100% />
-</div>
