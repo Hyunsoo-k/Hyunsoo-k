@@ -43,23 +43,6 @@
 </br>
 </br>
 
-<h3 align="center">:star:s t r e n g t h:star:</h3>
-
----
-
-</br>
-
-클라이언트 : 여러 프레임워크와 AJAX를 활용한 SPA 구현, 다양한 CSS 라이브러리를 이용한 동적 스타일링
-
-</br>
-
-서버 : Node.js와 Express를 이용한 RESTful-api 서버 구현
-
-</br>
-</br>
-</br>
-</br>
-
 <h3 align="center">📓S t a t s📓</h3>
 
 ---
