@@ -42,6 +42,6 @@
 <h3>Tools</h3>
 <p align-"left">
   <img src="https://img.shields.io/badge/VsCode-067BEC?style=flat-square" style="height: 25px;"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/IntelliJ-081C3A?style=flat-square&logo=intellijidea&logoColor=white" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=Git&logoColor=white" style="height: 25px;"/>
 </p>
