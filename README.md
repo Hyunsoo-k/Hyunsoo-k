@@ -35,10 +35,11 @@
   <img src="https://img.shields.io/badge/Express-F7E025?style=for-the-badge&logo=Express&logoColor=000000" />
 </p>
 </br>
-<h3>Database</h3>
+<h3>Database & ORM/ODM</h3>
 <p align-"left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" style="height: 25px;"/>
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=Mongoose&logoColor=white" style="height: 25px;"/>
 </p>
 </br>
 <h3>Tools</h3>
