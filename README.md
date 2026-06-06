@@ -5,9 +5,10 @@
 </p>
 </br>
 <p>
-  👋 Hi there! I'm a web and server developer working within the JavaScript ecosystem.</br>
-  I enjoy building sustainable services rather than just stopping at deployment,</br>
-  and i focus on driving real user engagement, ensuring architectural stability, and meticulously optimizing UX for continuous improvement.
+  👋 Hi there! I'm a web and server developer working within the JavaScript ecosystem.
+  </br>
+  </br>
+  ✨ I enjoy building sustainable services rather than just stopping at deployment, and i focus on driving real user engagement, ensuring architectural stability, and meticulously optimizing UX for continuous improvement.
 </p>
 </br>
 <h3>Languages</h3>
