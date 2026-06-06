@@ -1,5 +1,7 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Portfolio-2F74C0?style=flat-square&logo=vercel&logoColor=white" style="height: 25px;"/>
+  <a href="https://hyunsoo-kim.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2F74C0?style=flat-square&logo=vercel&logoColor=white" style="height: 25px;"/>
+  </a>
   <img src="https://img.shields.io/badge/Blog-148687?style=flat-square&logo=blogger&logoColor=white"style="height: 25px;"/>
   <img src="https://img.shields.io/badge/eng.hyunsoo@gmail.com-EA4435?style=flat-square&logo=gmail&logoColor=white"style="height: 25px;"/>
 </p>
