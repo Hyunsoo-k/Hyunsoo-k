@@ -14,6 +14,8 @@
   </br>
   </br>
   🚀 I am currently transitioning from the highly unopinionated Express framework to <strong style="color=orange">NestJS</strong> to master structured and scalable server architecture.
+  </br>
+  🚀 I am currently Learning relational database ORMs to ensure robust and type-safe data management.
 </p>
 </br>
 <h3>Languages</h3>
