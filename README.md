@@ -1,39 +1,41 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=😎%20FullStack%20developer%20김현수&fontAlign=50&fontAlignY=40&fontSize=35)
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Portfolio-2F74C0?style=flat-square&logo=vercel&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Blog-148687?style=flat-square&logo=blogger&logoColor=white"style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/eng.hyunsoo@gmail.com-EA4435?style=flat-square&logo=gmail&logoColor=white"style="height: 25px;"/>
+</p>
 </br>
-
-<h3 align="center">📮E - m a i l📮</h3>
-
----
-
-<p align="center">eng.hyunsoo@gmail.com</p>
-
+<p>
+  👋 Hi there! I'm a web and server developer working within the JavaScript ecosystem.</br>
+  I enjoy building sustainable services rather than just stopping at deployment,</br>
+  and i focus on driving real user engagement, ensuring architectural stability, and meticulously optimizing UX for continuous improvement.
+</p>
 </br>
+<h3>Languages</h3>
+<p align-"left">
+  <img src="https://img.shields.io/badge/HTML5-E5532D?style=flat-square&logo=html5&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Css3-2D53E5?style=flat-square&logo=css&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Javascript-F7E025?style=flat-square&logo=javascript&logoColor=black" style="height: 25px; color= #FFF"/>
+  <img src="https://img.shields.io/badge/Typescript-377CC8?style=flat-square&logo=typescript&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Java-E25040?style=flat-square&logo=openjdk&logoColor=white" style="height: 25px;"/>
+</p>
 </br>
-</br>
-</br>
-
-<h3 align="center">🛠S k i l l s🛠</h3>
-
----
-
-</br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
+<h3>Frameworks</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
+</p>
+</br>
+<h3>Database</h3>
+<p align-"left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" style="height: 25px;"/>
+</p>
+</br>
+<h3>Tools</h3>
+<p align-"left">
+  <img src="https://img.shields.io/badge/VsCode-067BEC?style=flat-square" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" style="height: 25px;"/>
+  <img src="https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=Git&logoColor=white" style="height: 25px;"/>
+</p>
